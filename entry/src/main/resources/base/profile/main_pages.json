@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/RecordPage",
+    "pages/GoalEditPage",
+    "pages/ReminderSettingsPage",
+    "pages/ExportPage",
+    "pages/ProfileEditPage"
+  ]
+}
